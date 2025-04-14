@@ -1,0 +1,600 @@
+Package: linux-modules-nvidia-535-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1009-azure-nvidia | linux-image-unsigned-6.8.0-1009-azure-nvidia, linux-signatures-nvidia-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), linux-objects-nvidia-535-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), nvidia-kernel-common-535 (>= 535.183.01)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-535-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 7056
+MD5sum: 670a30e9e78baee75d7a789b9307d056
+SHA1: 4ef751421a82ffbe764dc956b2ea5ae2cd3367b8
+SHA256: 4020f9a5d265caddf9b7874c8d2a70b6cbe89b1b756ced71655cd45ab6cba63b
+SHA512: fb3a9c25836140b917aecc8abd1aa5c52754515dd09e792382f51efaac18c1768c5b208c14ae84a81f2f4eb6d65be999d1278ebc79c7ed4fcc80f7b56b0ff72f
+Description: Linux kernel nvidia modules for version 6.8.0-1009
+Description-md5: c663dc10f8e888856754649293b7d08a
+
+Package: linux-modules-nvidia-535-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1012-azure-nvidia | linux-image-unsigned-6.8.0-1012-azure-nvidia, linux-signatures-nvidia-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), linux-objects-nvidia-535-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), nvidia-kernel-common-535 (>= 535.183.01)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-535-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 7056
+MD5sum: d692ce94beb0691e8d0735307953e782
+SHA1: dc5344d75800e530cf439afb0cbb0c18f3d00c60
+SHA256: 38c5ea2d3a1017dd7d17925d6dba7412fc72f234bd3b004962b8493629d666ab
+SHA512: 229bb22341a9ee80bb9210b81b5d4aef91b998f782c5fd66407ca8f6be6c1d819042f0b32872342c2f3bfcb5163bac49c8454f94b43243302162a4a8d161381b
+Description: Linux kernel nvidia modules for version 6.8.0-1012
+Description-md5: cc5bdf05d98c314a3918f2245e4d5514
+
+Package: linux-modules-nvidia-535-server-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1009-azure-nvidia | linux-image-unsigned-6.8.0-1009-azure-nvidia, linux-signatures-nvidia-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), linux-objects-nvidia-535-server-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), nvidia-kernel-common-535-server (>= 535.216.03)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-535-server-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 7048
+MD5sum: 5a58d80b1a6433c8524b51ce8acc2651
+SHA1: c29afaa181a43c7e45eb66f88acb6d9d1249352d
+SHA256: c00c7c7285488a9ab7ff3e550667581805474cdadd90c5e3a14a1a782ed1316c
+SHA512: c115e263b9647885616810e1e7c3c9f95247dfea1cef4a95daf20a95d012eb02c5aa960f0407a5baf69a35f4ea194939104ae450542a07a83ff88f34db741505
+Description: Linux kernel nvidia modules for version 6.8.0-1009
+Description-md5: 0aad961ecfa5b10adc4664284f528c3e
+
+Package: linux-modules-nvidia-535-server-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1012-azure-nvidia | linux-image-unsigned-6.8.0-1012-azure-nvidia, linux-signatures-nvidia-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), linux-objects-nvidia-535-server-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), nvidia-kernel-common-535-server (>= 535.216.03)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-535-server-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 7052
+MD5sum: 946a416eb0aea34681650879d6d8ded8
+SHA1: 458490ce5f66fc1b0b562f8c7df06c6e40cb182d
+SHA256: fa8d7a30a0e7dec9900baf1b30692a249966570f178861b7c17a4a6a46a05df0
+SHA512: f2d2791e7d48d100ac40e054f75b4019f64da362dc0195f730c79689da37bce4abd3eeaa66ac304ade30344cffe1911e9d67f947147dfd4ae0ad4844cb5f410e
+Description: Linux kernel nvidia modules for version 6.8.0-1012
+Description-md5: 0614297891bafb7951ce4a54b85c702e
+
+Package: linux-modules-nvidia-550-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1009-azure-nvidia | linux-image-unsigned-6.8.0-1009-azure-nvidia, linux-signatures-nvidia-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), linux-objects-nvidia-550-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), nvidia-kernel-common-550 (>= 550.120)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-550-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 7054
+MD5sum: dddb51903d93c33d6ef66fed0f9c2f91
+SHA1: 3ed57ee735089691db8573fdac2036e4382ff306
+SHA256: 4a799fa15cc682afa9264f9e416b507eafbf33b42ca1f152347bed7d3c10b0bd
+SHA512: 9d2eda4598f34a3578aa8c532b29cb6c5f5ff04f5833f1bb2e95d775a182a11406c659ad11f3c5a223bcbd99d1367606ec9ae6166346fb73dbcf9b7acd0b5fc2
+Description: Linux kernel nvidia modules for version 6.8.0-1009
+Description-md5: 39a62d4430fd89675fed29c20ee0ef8f
+
+Package: linux-modules-nvidia-550-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1012-azure-nvidia | linux-image-unsigned-6.8.0-1012-azure-nvidia, linux-signatures-nvidia-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), linux-objects-nvidia-550-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), nvidia-kernel-common-550 (>= 550.120)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-550-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 7048
+MD5sum: 0a99d4dfefb0686cba43c9b02c694fdb
+SHA1: d672493fe67d1ef0a82a26ee047a2392b4b6a43d
+SHA256: a50effa92ad877752505012e906fc0d114eebb9fb6dc434714550e347ddccee6
+SHA512: 2eec28339c92d95e21344ecc6f65acf78b0c1bf7224f58a31bae9002a180057446ad2439db8797db848bf0a0dc7f775de92bf7e7369b92998b68af8afe1a88d7
+Description: Linux kernel nvidia modules for version 6.8.0-1012
+Description-md5: be76482ebb417c063b87a7a70d8ea9b1
+
+Package: linux-modules-nvidia-550-server-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1009-azure-nvidia | linux-image-unsigned-6.8.0-1009-azure-nvidia, linux-signatures-nvidia-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), linux-objects-nvidia-550-server-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), nvidia-kernel-common-550-server (>= 550.127.08)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-550-server-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 7050
+MD5sum: 1732d2a0a141fa39c44d2dc082436407
+SHA1: 018cd74606bf05d95fc495e6fb87c902e6ff7070
+SHA256: 197b0c937b8468f0462c428834c01c799c74e6a2348781b01df8087a2d1c6ba1
+SHA512: 16bb28e892052ac064753f3d15fb30bdfaae079ccf0aa5e29ae08c271fb40e4d0bdd715989da14379e648ea1f1e7f2939ba80e209f68a394a9495b5b6ce27b19
+Description: Linux kernel nvidia modules for version 6.8.0-1009
+Description-md5: 48af73b3c709a41582a768eae7ef8527
+
+Package: linux-modules-nvidia-550-server-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1012-azure-nvidia | linux-image-unsigned-6.8.0-1012-azure-nvidia, linux-signatures-nvidia-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), linux-objects-nvidia-550-server-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), nvidia-kernel-common-550-server (>= 550.127.08)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-550-server-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 7054
+MD5sum: 62f084a4293be510073a8816cf0e70ba
+SHA1: 3858772deb31ddfc93bc66aaf55ae2cb75b56a00
+SHA256: 9838735b775b025fba8d49523e10f8d440eb345aaec6183b0127b85b0240e6b9
+SHA512: 7f6bc18aca46ae1bcf7273ad9b9ca29347e56a2bfefeca2e0a09ad61555dea6e4d873c04cc76ab900a8d1577aee9fc5f14c1ec54341b2d4067472a4c6e49c3e6
+Description: Linux kernel nvidia modules for version 6.8.0-1012
+Description-md5: 58f0e57c76cd13de94a8991f2344ce23
+
+Package: linux-modules-nvidia-565-server-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1009-azure-nvidia | linux-image-unsigned-6.8.0-1009-azure-nvidia, linux-signatures-nvidia-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), linux-objects-nvidia-565-server-6.8.0-1009-azure-nvidia (= 6.8.0-1009.9), nvidia-kernel-common-565-server (>= 565.57.01)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-565-server-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 7048
+MD5sum: 6c9c43a58dcd0a76adee098517fca27d
+SHA1: 0aab8032631db74019f13a55dbe28357148665ec
+SHA256: e5283e33f2d0b33adc968ead4a3cfe7873ba5bc9b891e5ff5e31f8035e27b264
+SHA512: 81fdabf38b5e0b5a78e00ec55f264fe4ac07466836259c05935fe4f2d83e6da272b9d92fe0584ecd7b71d44ba60551bc9d02c7fd5d88e0be03e094291525e37e
+Description: Linux kernel nvidia modules for version 6.8.0-1009
+Description-md5: 24357df99f2dbdeee66705e788454ad6
+
+Package: linux-modules-nvidia-565-server-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 27
+Depends: debconf (>= 0.5) | debconf-2.0, linux-image-6.8.0-1012-azure-nvidia | linux-image-unsigned-6.8.0-1012-azure-nvidia, linux-signatures-nvidia-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), linux-objects-nvidia-565-server-6.8.0-1012-azure-nvidia (= 6.8.0-1012.13), nvidia-kernel-common-565-server (>= 565.57.01)
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-modules-nvidia-565-server-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 7048
+MD5sum: d3462d83744c608cc7008bfe80f82f37
+SHA1: 2c2175ee3b0b4d30474b4c27ab7df29cdd5b1652
+SHA256: 501f98706cded874baf14bb888e5771ed697855acb5a3e74b38f556330ab265f
+SHA512: 1a3632e99861f328916a4eade915b26e35106bcde11123c5c32b593ddde763cddb503a2435df3fe8ecee92b229cdb8a3b8d3c5f49599888059c6a53e5c30fe56
+Description: Linux kernel nvidia modules for version 6.8.0-1012
+Description-md5: 7cfd7ff27cb03e6b35f4bb41279ba387
+
+Package: linux-objects-nvidia-535-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 132321
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 57161164
+MD5sum: 3f37946eab0919eb4cb4fd29f19ad405
+SHA1: 0bada5888c1e3ed7d81a5ed8afef862689910dd3
+SHA256: 2e1ea3836b8657abc6e93838754e5979d586b94fb95d74b51ff8ea2c185aa03a
+SHA512: 195790e13282172f40517718a4aff5074f7d352cc90d2903e05793b7971137facc825f51baa7172e29da31c0e6d3782abfb717c90d320ec49d300b2eb7e0791c
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: e43e43e582acad4ea4a5ce98c082c7a1
+
+Package: linux-objects-nvidia-535-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 132321
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 57164120
+MD5sum: 87fb506208daf5c7ac5ab975100854ce
+SHA1: 2bb16215acb6b66974f10c6a0ece8329e7a8da0f
+SHA256: eaba4846f170f6575c2c47db592ad6ba01df660d556d9a989465c4df74864510
+SHA512: 60d9b486eed9c9ca3b28eb270c4b1f08c98e4ac4cefa2984807071b5ab3bb101000ed363059f85ab16291a2a1b0b166c9eb3f229e73e7af8e19fe1493981c1a5
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: f6efd0644af1b85aa2eff6541cd082ea
+
+Package: linux-objects-nvidia-535-open-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 16645
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-open-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 4649902
+MD5sum: ba0293058402bab8d91f4b5025a3fa8a
+SHA1: c2af63e5950452278d004aa3c4e0ba16da0e6d64
+SHA256: b81aded06fa1e1aaacb9a56550caa8e83cb23fa95139c158e4a22b18552320e0
+SHA512: f14a09fec49d1316203950b883620518aab9c391ee33fe2f799dc78189966bb20f047456a803f6b140730cfdd577e02c1f01f9e0b03d7c55b7fee0b793aafe54
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: edcf1827042f3ece92c7149eb05140d6
+
+Package: linux-objects-nvidia-535-open-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 16645
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-open-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 4649876
+MD5sum: e8f9e6d6bf5e69f0bb7a37b0342cbba1
+SHA1: eb28627974d5517d092d254231af180ef2d39463
+SHA256: 6c35651463e4f71453028ca494d924c6ae9a1287cc18453ccecf5ac3f394f1f1
+SHA512: e43296a941af1d2a91f5dd3bc6648c59e92685eb4afbbfb1d9d547c48f90cd75d4fbddb05f8100600c9147fe4cf1e7af524223b06f2d5213edfb8c8616b40576
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: 1b9ca08cbfcd8ff2478ca451a7839531
+
+Package: linux-objects-nvidia-535-server-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 132352
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-server-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 57180424
+MD5sum: 828a37c147529826531cfbcb4376178b
+SHA1: 6cad05dd110737b230d7fd4509246c3e2d5fd6b0
+SHA256: bdd2cbe2c5ede9c1faf2a503b896e8a547def9c53999fc433f660cc5a92ed8cd
+SHA512: a892102ad344a7cb641eff0b6259e108e469680a7dd8fb392c19201be03459ff4e4d357f9a48adef87c5823c9158b610308553a4ab40da1ed53a67618e636610
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: 8187145d5185eaf48cc12e11fa8bf45b
+
+Package: linux-objects-nvidia-535-server-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 132352
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-server-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 57179788
+MD5sum: b3d26b90f84afaae0f37d9a32a3ddd9d
+SHA1: 5c8c69020bf3732f31febed09cf352c1d10f2c30
+SHA256: 02b9401e1782330eff9b48a7a47e84cb1774a2f6219daaef8411511b63e55a8b
+SHA512: 647c9a6c2444c981fb77c7ac3b8761a4a1720491b4a981d7c95e7dbb70c216b46c5696287c50a772b8cb642ab461cc55edd3908d7d89d2b4d559bf636804f3b1
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: bc5566fdd26f55ae87a104c6bbd6bea7
+
+Package: linux-objects-nvidia-535-server-open-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 16641
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-server-open-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 4639842
+MD5sum: 3aa554562dcc615c92988ce9aa0fa737
+SHA1: 9edf2b9929f17e38394338cc2b651d3e86aa7874
+SHA256: 259ae1c7e3f52ffeebb2c2ec4bdd0810e46465a2491d45369c4be2a18089dd85
+SHA512: 943fb59df454f29918e974af42830e91f429b3765d6b5eed13026ae7179d10ef625eaf46b93210c57bb1d5789ad56a8ef38b26ff6ea92b1f795f19b7dab3b3cb
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: 3bf29647f383817c665772ac4cb49306
+
+Package: linux-objects-nvidia-535-server-open-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 16641
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-535-server-open-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 4639938
+MD5sum: 38e3172bad7e012fad31473de7396383
+SHA1: 2d6d1fc338d9525685a9dd2ebb6227ebba743e09
+SHA256: ceb5887e86802e697654961ff7387915cb81864d90ad2fd03659cdf98dae40ae
+SHA512: 7a0284205b80b24bfc42b46edee4d2da379729af4cbd3e6fe736f03ec5cc8dac1bf2db1b4f48ee920cb82f6c222d3bb6ad832e7052e31b1aae7217ef3750f361
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: 15fab2bc1d69d64be5fddee0c1025903
+
+Package: linux-objects-nvidia-550-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 132978
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 54421922
+MD5sum: ad5cf6fbc4f0858c4099a24263adc950
+SHA1: 813fd6e914ae5c73a1e3ce29e3df0f9402d16db3
+SHA256: 75752ada3d9e8da64b67a2c2c2fe91a4f5c9e14fd848310919b88e2132898edc
+SHA512: 6ac9eed2a13f34731137bda490466a2ac01b19744f7ef8fc6551588742dbc9a1285498fcafb409e12be0a480fd95d61a2e17d48217dcc0949e757d7a68a8a61a
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: 6926c18fd9c18a051e7b7547f388df35
+
+Package: linux-objects-nvidia-550-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 132978
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 54435464
+MD5sum: 73a091ca5d97319d2d981808857fb415
+SHA1: e4ccd1cd51aed5770d8a4843b5e4aac7414bc560
+SHA256: 5aa7e8f8f91db792e72805c6ca0270d4b9c24aba90183d78287606259e5dec47
+SHA512: 5a38bba53f45b47448801c63c8eee32f8d5107d40e66b0809a9e51a81bed952c32d1bac2e1e00ef40052b96b9104b12e56fe3130d3dede8c000118fdf43c8b62
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: de177822f6310d1cedfc08a041754c30
+
+Package: linux-objects-nvidia-550-open-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 18476
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-open-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 4867104
+MD5sum: b9a0289d935eb90cf835303aa53a1c7a
+SHA1: 7c0b7e5523a3e19fa3da8f59d78ea0c8de09ab4e
+SHA256: e90512e552597cae0064a4194559bcbda4e8f44e6c1e55f92b16ee837f341f52
+SHA512: 5ce8afdfd7286e1fab7c8e3057aed332e299e347d5577238163ad369f13d7f739bf9018aceac3a6aa9d3aa647b3cb09713af6660fce70c65dac91723241ffaa0
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: 9bda7f02e310f11941fd82562f237b16
+
+Package: linux-objects-nvidia-550-open-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 18476
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-open-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 4867844
+MD5sum: c01bee780b04db1703c2c7afd47e1366
+SHA1: ade6ca2718556d5f75068aa35c92b1cca115902d
+SHA256: 5ccd072ab36197bd516ef13b9d865f56b5510857dda38a2858578057ffb27ee1
+SHA512: f3b4afd98dbcb3e9aa76b264696513aa262fc02063adbdf8c1ffbcfcaa55aee103c3765acafabf5a29989385ffc4299dce04faf8366c9b9de45aec0db71f7563
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: 8b864169904a67f0d9ade67263925837
+
+Package: linux-objects-nvidia-550-server-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 133009
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-server-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 54475274
+MD5sum: cb38901c81f3f7f7b1cd9d242a4da208
+SHA1: b95c231d4d046654d145dee497b4121308ea278d
+SHA256: dbc80bf02976e78e1a04aae12519622074639f47c1ec60e2c3d0212c57197289
+SHA512: 7888b0c833e662d21cc34c6ebcdb6270d673e77c4c818b7628867cd5a9ead4e97da293c1d23ec4655eecd7303b82ce64d2ee79861a42c199d58d353b8294cef0
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: e160c2e23482f7af44c9da22745348d9
+
+Package: linux-objects-nvidia-550-server-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 133009
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-server-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 54474846
+MD5sum: df48001e527709d11d9257e451af8bfb
+SHA1: 99abcce546881cad5f61601ee70cb2f02f91b497
+SHA256: 52b9dfc0ec3a656ba740eae3ffbf9f91086d39b5a18e38b62f000fda9b7f4543
+SHA512: 31e3e25310dcbca7772de38e5b6f8ba2cf3d84a66b175850a63219f48e57ceffd373c8e40a7c82bb8c565c37277ee0ba44eece82929dccac175e36fca19292d4
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: decb239d773a8d1d21c516c9a5c5542f
+
+Package: linux-objects-nvidia-550-server-open-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 18490
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-server-open-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 4882738
+MD5sum: bbffd557c3c8e39e12fc996d94a8bea8
+SHA1: 3d5c6136ab5a753fb7086a2b1ee2c1ea3a89714b
+SHA256: 1c4d119f713c826c7ce811adbfb797a685510115f16ad6c319793492495454a2
+SHA512: 441fd3268d53c1bef978b3abaf4f2aea51a9edbb7f10f403ee041ab06455792fe1e0e89d324839d2a7ee87cf10f1fd617b2aef01a7a17bf8ccaabdf66199b4be
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: 0bb2a2504b6f35c2c96c39cfc12d48f4
+
+Package: linux-objects-nvidia-550-server-open-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 18490
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-550-server-open-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 4882838
+MD5sum: 7e7ee21a095e2682f1bc17fedc4c6ecd
+SHA1: 37c35a821b319c5eafb88a6deb574ef632d78020
+SHA256: 92c28029301836f60e4d72cfb1bb87f3ff59d3a29b1d70b0414af9ea02cc4b23
+SHA512: 69ccf096ed73fc5817e3f98898c3a77bdfea7e19bb1f7628b6fec7565d9abadc5c7de99e997ac863fc2fe5d7c93e2cb9b8aed02e686ad9208df1603ace95f5cf
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: ab1e8affd28665f5e8d262f985b92d79
+
+Package: linux-objects-nvidia-565-server-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 152152
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-565-server-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 67673400
+MD5sum: 79e9b9e1a1f41acf18ffc91bd7edb366
+SHA1: 66eb51ed6f360f7a1e5fb55bf37940d2267c6df2
+SHA256: d7206ee83b16e129c4070d94cbea92edd03155755cfe78a5395242a029208520
+SHA512: 644c67675b3f528c539a2357f83846d5a6970ea6e4b4d615647f03205cab950ccd755808b9c0df4206210244e20d483c0197fe5614e9e78051c1d1be43d21631
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: f330a13ba8e9e059ed6ef0d3963c6621
+
+Package: linux-objects-nvidia-565-server-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 152152
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-565-server-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 67653120
+MD5sum: ef7eefda0d9166251c1a6cfd9c62309a
+SHA1: 19d6797d14a749957c5e68c9f3006c02191cffc3
+SHA256: b41bc0b5b2af8c820b3f0fbe0631032b48a8cfe6c97fadee75367a3bb993c0c5
+SHA512: e01d1ffd096443c7d777fe788313bc5c911d26cd64ac574d87986888157d6d4ebc7cf23df0e931bba02b06e27df10959179475ba4dbdb3d5a3e607bc9d164874
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: f175e003e7321b1aa3e8d45a5f4fd05b
+
+Package: linux-objects-nvidia-565-server-open-6.8.0-1009-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1009.9
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 20265
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-565-server-open-6.8.0-1009-azure-nvidia_6.8.0-1009.9_arm64.deb
+Size: 5604898
+MD5sum: 68bdfadca420c9ff280089e5c110fd44
+SHA1: 1aa962521578a005b9aa3da57094a905dfbdf379
+SHA256: 05a83b27db3484716cbb2cb00bd192d9325e952e1dfb7930104f770f36a4c01d
+SHA512: 961963626e1a7ac006bdb0f7f5b9037bad608315d727ab20cceca4abb5a41c97eaf498051547fd079569c74075241ddbef475712ccd98eb4d343c7bd8937fc2c
+Description: Linux kernel nvidia modules for version 6.8.0-1009 (objects)
+Description-md5: 087801aad8fdc5922847693758552de5
+
+Package: linux-objects-nvidia-565-server-open-6.8.0-1012-azure-nvidia
+Architecture: arm64
+Version: 6.8.0-1012.13
+Priority: optional
+Section: multiverse/kernel
+Source: linux-restricted-modules-azure-nvidia
+Origin: Ubuntu
+Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 20265
+Depends: binutils
+Filename: pool/multiverse/l/linux-restricted-modules-azure-nvidia/linux-objects-nvidia-565-server-open-6.8.0-1012-azure-nvidia_6.8.0-1012.13_arm64.deb
+Size: 5605072
+MD5sum: 0d35b19f236fe61d2d9a1685a08c11ec
+SHA1: 11b2dd4ecdf7f1f1438ea16497a4f4f22adfd8c2
+SHA256: 2a07519a93ea6f0999ac9ef6e4ea3ef5c096d5627222a0aeaeeede7591c67439
+SHA512: 1738b7be17e57d3ade5f9ffa77f5a0af8bcd3516658e03be15000fc01af03cb6fd71675e549de7c1532737bc3fe8fd4b227d0c98224205ffd96adb96fb417fac
+Description: Linux kernel nvidia modules for version 6.8.0-1012 (objects)
+Description-md5: bbe0de38c40485f7eb25ad758b515607
+

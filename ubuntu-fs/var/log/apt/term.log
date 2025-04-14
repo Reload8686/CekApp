@@ -1,0 +1,568 @@
+
+Log started: 2025-01-28  04:30:43
+Log ended: 2025-01-28  04:32:47
+
+Log started: 2025-01-28  04:34:49
+Log ended: 2025-01-28  04:38:24
+
+Log started: 2025-04-14  11:49:59
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7288 files and directories currently installed.)
+Preparing to unpack .../libc6_2.39-0ubuntu8.4_arm64.deb ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/aarch64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/aarch64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/aarch64-linux-gnu/perl-base /usr/lib/aarch64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+debconf: falling back to frontend: Teletype
+Unpacking libc6:arm64 (2.39-0ubuntu8.4) over (2.39-0ubuntu8.3) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/ld-linux-aarch64.so.1' size has changed from 42 to 39
+Setting up libc6:arm64 (2.39-0ubuntu8.4) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/aarch64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/aarch64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/aarch64-linux-gnu/perl-base /usr/lib/aarch64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+debconf: falling back to frontend: Teletype
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7287 files and directories currently installed.)
+Preparing to unpack .../base-files_13ubuntu10.2_arm64.deb ...
+Unpacking base-files (13ubuntu10.2) over (13ubuntu10.1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/etc/os-release' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/common-licenses/GFDL' size has changed from 18 to 8
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/common-licenses/GPL' size has changed from 18 to 5
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/common-licenses/LGPL' size has changed from 18 to 6
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/base-files/FAQ' size has changed from 18 to 6
+Setting up base-files (13ubuntu10.2) ...
+Installing new version of config file /etc/issue ...
+Installing new version of config file /etc/issue.net ...
+Installing new version of config file /etc/lsb-release ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7287 files and directories currently installed.)
+Preparing to unpack .../perl-base_5.38.2-3.2build2.1_arm64.deb ...
+Unpacking perl-base (5.38.2-3.2build2.1) over (5.38.2-3.2build2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/perl5.38.2.1.gz' size has changed from 18 to 9
+Setting up perl-base (5.38.2-3.2build2.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7287 files and directories currently installed.)
+Preparing to unpack .../libc-bin_2.39-0ubuntu8.4_arm64.deb ...
+Unpacking libc-bin (2.39-0ubuntu8.4) over (2.39-0ubuntu8.3) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/bin/ld.so' size has changed from 30 to 28
+Setting up libc-bin (2.39-0ubuntu8.4) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../libcap2_1%3a2.66-5ubuntu2.2_arm64.deb ...
+Unpacking libcap2:arm64 (1:2.66-5ubuntu2.2) over (1:2.66-5ubuntu2.1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libcap.so.2' size has changed from 18 to 14
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libpsx.so.2' size has changed from 18 to 14
+Setting up libcap2:arm64 (1:2.66-5ubuntu2.2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../libnss-systemd_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking libnss-systemd:arm64 (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libnss-systemd/NEWS.Debian.gz' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libnss-systemd/changelog.Debian.gz' size has changed from 42 to 40
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/libnss_systemd.so.2.8.gz' size has changed from 18 to 16
+Preparing to unpack .../systemd-dev_255.4-1ubuntu8.6_all.deb ...
+Unpacking systemd-dev (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+Preparing to unpack .../libsystemd-shared_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking libsystemd-shared:arm64 (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+Preparing to unpack .../libsystemd0_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking libsystemd0:arm64 (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libsystemd.so.0' size has changed from 22 to 20
+Setting up libsystemd0:arm64 (255.4-1ubuntu8.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../systemd-sysv_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking systemd-sysv (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/sbin/halt' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/sbin/init' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/sbin/poweroff' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/sbin/reboot' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/sbin/runlevel' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/sbin/shutdown' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/sbin/telinit' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/systemd-sysv/NEWS.Debian.gz' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/systemd-sysv/changelog.Debian.gz' size has changed from 42 to 40
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/halt.8.gz' size has changed from 18 to 13
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/reboot.8.gz' size has changed from 18 to 13
+Preparing to unpack .../libpam-systemd_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking libpam-systemd:arm64 (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libpam-systemd/NEWS.Debian.gz' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libpam-systemd/changelog.Debian.gz' size has changed from 42 to 40
+Preparing to unpack .../systemd_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking systemd (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/etc/modules-load.d/modules.conf' size has changed from 18 to 10
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/etc/sysctl.d/99-sysctl.conf' size has changed from 18 to 14
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/etc/systemd/system-generators/systemd-gpt-auto-generator' size has changed from 18 to 9
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/bin/systemd' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/bin/systemd-confext' size has changed from 18 to 14
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/bin/systemd-umount' size has changed from 18 to 13
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/environment.d/99-environment.conf' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/autovt@.service' size has changed from 18 to 14
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/cryptdisks-early.service' size has changed from 18 to 9
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/cryptdisks.service' size has changed from 18 to 9
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/ctrl-alt-del.target' size has changed from 18 to 13
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/dbus-org.freedesktop.hostname1.service' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/dbus-org.freedesktop.locale1.service' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/dbus-org.freedesktop.login1.service' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/dbus-org.freedesktop.timedate1.service' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/default.target' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/getty.target.wants/getty-static.service' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/graphical.target.wants/systemd-update-utmp-runlevel.service' size has changed from 42 to 39
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/hwclock.service' size has changed from 18 to 9
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/initrd-root-device.target.wants/remote-cryptsetup.target' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/initrd-root-device.target.wants/remote-veritysetup.target' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/initrd-root-fs.target.wants/systemd-repart.service' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/initrd.target.wants/systemd-battery-check.service' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/initrd.target.wants/systemd-bsod.service' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/initrd.target.wants/systemd-pcrphase-initrd.service' size has changed from 38 to 34
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/kmod.service' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/multi-user.target.wants/getty.target' size has changed from 18 to 15
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/multi-user.target.wants/systemd-ask-password-wall.path' size has changed from 38 to 33
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/multi-user.target.wants/systemd-logind.service' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/multi-user.target.wants/systemd-update-utmp-runlevel.service' size has changed from 42 to 39
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/multi-user.target.wants/systemd-user-sessions.service' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/procps.service' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/rescue.target.wants/systemd-update-utmp-runlevel.service' size has changed from 42 to 39
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/runlevel0.target' size has changed from 18 to 15
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/runlevel1.target' size has changed from 18 to 13
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/runlevel2.target' size has changed from 22 to 17
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/runlevel3.target' size has changed from 22 to 17
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/runlevel4.target' size has changed from 22 to 17
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/runlevel5.target' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/runlevel6.target' size has changed from 18 to 13
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sockets.target.wants/systemd-initctl.socket' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sockets.target.wants/systemd-journald-dev-log.socket' size has changed from 38 to 34
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sockets.target.wants/systemd-journald.socket' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sockets.target.wants/systemd-pcrextend.socket' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sockets.target.wants/systemd-sysext.socket' size has changed from 26 to 24
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/cryptsetup.target' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/dev-hugepages.mount' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/dev-mqueue.mount' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/integritysetup.target' size has changed from 26 to 24
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/kmod-static-nodes.service' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/ldconfig.service' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/proc-sys-fs-binfmt_misc.automount' size has changed from 38 to 36
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/sys-fs-fuse-connections.mount' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/sys-kernel-config.mount' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/sys-kernel-debug.mount' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/sys-kernel-tracing.mount' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-ask-password-console.path' size has changed from 38 to 36
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-binfmt.service' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-firstboot.service' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-journal-catalog-update.service' size has changed from 46 to 41
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-journal-flush.service' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-journald.service' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-machine-id-commit.service' size has changed from 38 to 36
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-modules-load.service' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-pcrmachine.service' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-pcrphase-sysinit.service' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-pcrphase.service' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-random-seed.service' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-repart.service' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-sysctl.service' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-sysusers.service' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-tmpfiles-setup-dev-early.service' size has changed from 46 to 43
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-tmpfiles-setup-dev.service' size has changed from 42 to 37
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-tmpfiles-setup.service' size has changed from 38 to 33
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-tpm2-setup-early.service' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-tpm2-setup.service' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-update-done.service' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-update-utmp.service' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/veritysetup.target' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/timers.target.wants/systemd-tmpfiles-clean.timer' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/x11-common.service' size has changed from 18 to 9
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/systemd-cryptsetup' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/systemd-sysroot-fstab-check' size has changed from 46 to 41
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/dbus-1/services/org.freedesktop.systemd1.service' size has changed from 54 to 51
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/systemd/NEWS.Debian.gz' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/systemd/changelog.Debian.gz' size has changed from 42 to 40
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/systemd-firstboot.service.1.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/systemd-umount.1.gz' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/extension-release.5.gz' size has changed from 18 to 15
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/initrd-release.5.gz' size has changed from 18 to 15
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/journald.conf.d.5.gz' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/journald@.conf.5.gz' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/logind.conf.d.5.gz' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/networkd.conf.d.5.gz' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/pstore.conf.d.5.gz' size has changed from 18 to 16
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/sleep.conf.d.5.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/system.conf.d.5.gz' size has changed from 26 to 24
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/systemd-user-runtime-dir.5.gz' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/systemd-user.conf.5.gz' size has changed from 26 to 24
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/systemd.negative.5.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/systemd.pcrlock.d.5.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/systemd.positive.5.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/user-runtime-dir@.service.5.gz' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man5/user.conf.d.5.gz' size has changed from 26 to 24
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/sd-stub.7.gz' size has changed from 22 to 17
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/30-systemd-environment-d-generator.8.gz' size has changed from 38 to 36
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/rc-local.service.8.gz' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-ask-password-console.path.8.gz' size has changed from 46 to 41
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-ask-password-wall.path.8.gz' size has changed from 46 to 41
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-ask-password-wall.service.8.gz' size has changed from 46 to 41
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-backlight.8.gz' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-battery-check.8.gz' size has changed from 38 to 34
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-binfmt.8.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-boot-check-no-failures.8.gz' size has changed from 46 to 43
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-bsod.8.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-confext.8.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-confext.service.8.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-cryptsetup@.service.8.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-fsck-root.service.8.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-fsck-usr.service.8.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-fsck.8.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-fsckd.8.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-fsckd.socket.8.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-growfs-root.service.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-growfs.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-growfs@.service.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-halt.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-hibernate-resume.8.gz' size has changed from 42 to 37
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-hibernate.service.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-hostnamed.8.gz' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-hybrid-sleep.service.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-importd.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-initctl.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-initctl.socket.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-integritysetup.8.gz' size has changed from 38 to 36
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-journald-audit.socket.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-journald-dev-log.socket.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-journald-varlink@.socket.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-journald.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-journald.socket.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-journald@.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-journald@.socket.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-kexec.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-localed.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-logind.8.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-makefs.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-mkswap@.service.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-modules-load.8.gz' size has changed from 38 to 33
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-network-generator.8.gz' size has changed from 42 to 38
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-networkd-wait-online.8.gz' size has changed from 46 to 41
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-networkd-wait-online@.service.8.gz' size has changed from 46 to 41
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-networkd.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrextend.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrfs-root.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrfs@.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrlock-file-system.service.8.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrlock-firmware-code.service.8.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrlock-firmware-config.service.8.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrlock-machine-id.service.8.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrlock-make-policy.service.8.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrlock-secureboot-authority.service.8.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrlock-secureboot-policy.service.8.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrmachine.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrphase-initrd.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pcrphase-sysinit.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-pstore.8.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-quotacheck.8.gz' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-random-seed.8.gz' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-reboot.service.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-remount-fs.8.gz' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-repart.service.8.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-rfkill.8.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-rfkill.socket.8.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-shutdown.8.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sleep.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-storagetm.8.gz' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-suspend-then-hibernate.service.8.gz' size has changed from 30 to 28
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sysctl.8.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sysext.service.8.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sysupdate-reboot.service.8.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sysupdate-reboot.timer.8.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sysupdate.service.8.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sysupdate.timer.8.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-sysusers.service.8.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-time-wait-sync.8.gz' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-timedated.8.gz' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-tmpfiles-clean.service.8.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-tmpfiles-clean.timer.8.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-tmpfiles-setup-dev-early.service.8.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-tmpfiles-setup-dev.service.8.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-tmpfiles-setup.service.8.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-tpm2-setup-early.service.8.gz' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-tpm2-setup.8.gz' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-update-done.8.gz' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-update-utmp-runlevel.service.8.gz' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-update-utmp.8.gz' size has changed from 34 to 32
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-user-sessions.8.gz' size has changed from 38 to 34
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-veritysetup.8.gz' size has changed from 38 to 33
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-volatile-root.8.gz' size has changed from 38 to 34
+Preparing to unpack .../udev_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking udev (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sockets.target.wants/systemd-udevd-control.socket' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sockets.target.wants/systemd-udevd-kernel.socket' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-hwdb-update.service' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-udev-trigger.service' size has changed from 34 to 31
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/sysinit.target.wants/systemd-udevd.service' size has changed from 26 to 24
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/system/udev.service' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/systemd/systemd-udevd' size has changed from 22 to 17
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/udev/NEWS.Debian.gz' size has changed from 38 to 35
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/udev/changelog.Debian.gz' size has changed from 42 to 40
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-udevd-control.socket.8.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-udevd-kernel.socket.8.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man8/systemd-udevd.8.gz' size has changed from 30 to 26
+Preparing to unpack .../libudev1_255.4-1ubuntu8.6_arm64.deb ...
+Unpacking libudev1:arm64 (255.4-1ubuntu8.6) over (255.4-1ubuntu8.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libudev.so.1' size has changed from 18 to 16
+Setting up libudev1:arm64 (255.4-1ubuntu8.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../libdevmapper1.02.1_2%3a1.02.185-3ubuntu3.2_arm64.deb ...
+Unpacking libdevmapper1.02.1:arm64 (2:1.02.185-3ubuntu3.2) over (2:1.02.185-3ubuntu3.1) ...
+Preparing to unpack .../libssl3t64_3.0.13-0ubuntu3.5_arm64.deb ...
+Unpacking libssl3t64:arm64 (3.0.13-0ubuntu3.5) over (3.0.13-0ubuntu3.4) ...
+Setting up libssl3t64:arm64 (3.0.13-0ubuntu3.5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../libcryptsetup12_2%3a2.7.0-1ubuntu4.2_arm64.deb ...
+Unpacking libcryptsetup12:arm64 (2:2.7.0-1ubuntu4.2) over (2:2.7.0-1ubuntu4.1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/lib/aarch64-linux-gnu/libcryptsetup.so.12' size has changed from 26 to 24
+Preparing to unpack .../liblzma5_5.6.1+really5.4.5-1ubuntu0.2_arm64.deb ...
+Unpacking liblzma5:arm64 (5.6.1+really5.4.5-1ubuntu0.2) over (5.6.1+really5.4.5-1build0.1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/liblzma.so.5' size has changed from 18 to 16
+Setting up liblzma5:arm64 (5.6.1+really5.4.5-1ubuntu0.2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../libpcre2-8-0_10.42-4ubuntu2.1_arm64.deb ...
+Unpacking libpcre2-8-0:arm64 (10.42-4ubuntu2.1) over (10.42-4ubuntu2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libpcre2-8.so.0' size has changed from 22 to 20
+Setting up libpcre2-8-0:arm64 (10.42-4ubuntu2.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../00-libsqlite3-0_3.45.1-1ubuntu2.1_arm64.deb ...
+Unpacking libsqlite3-0:arm64 (3.45.1-1ubuntu2.1) over (3.45.1-1ubuntu2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libsqlite3.so.0' size has changed from 22 to 19
+Preparing to unpack .../01-gpg-wks-client_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking gpg-wks-client (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpg-wks-client/NEWS.Debian.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpg-wks-client/changelog.Debian.gz' size has changed from 34 to 30
+Preparing to unpack .../02-dirmngr_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking dirmngr (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/dirmngr/NEWS.Debian.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/dirmngr/changelog.Debian.gz' size has changed from 34 to 30
+Preparing to unpack .../03-gnupg-utils_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking gnupg-utils (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+Preparing to unpack .../04-gpgsm_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking gpgsm (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpgsm/NEWS.Debian.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpgsm/changelog.Debian.gz' size has changed from 34 to 30
+Preparing to unpack .../05-gpg-agent_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking gpg-agent (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/gnupg2/gpg-preset-passphrase' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/gnupg2/gpg-protect-tool' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpg-agent/NEWS.Debian.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpg-agent/changelog.Debian.gz' size has changed from 34 to 30
+Preparing to unpack .../06-gpg_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking gpg (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpg/NEWS.Debian.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gpg/changelog.Debian.gz' size has changed from 34 to 30
+Preparing to unpack .../07-gpgconf_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking gpgconf (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+Preparing to unpack .../08-gnupg_2.4.4-2ubuntu17.2_all.deb ...
+Unpacking gnupg (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/KEYSERVER' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/NEWS.Debian.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/NEWS.gz' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/THANKS.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/TODO' size has changed from 18 to 15
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/changelog.Debian.gz' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/examples/pwpattern.list' size has changed from 42 to 39
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/gnupg/examples/trustlist.txt' size has changed from 42 to 38
+Preparing to unpack .../09-keyboxd_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking keyboxd (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/keyboxd/NEWS.Debian.gz' size has changed from 30 to 25
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/keyboxd/changelog.Debian.gz' size has changed from 34 to 30
+Preparing to unpack .../10-libtasn1-6_4.19.0-3ubuntu0.24.04.1_arm64.deb ...
+Unpacking libtasn1-6:arm64 (4.19.0-3ubuntu0.24.04.1) over (4.19.0-3build1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libtasn1.so.6' size has changed from 22 to 17
+Setting up libtasn1-6:arm64 (4.19.0-3ubuntu0.24.04.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../libgnutls30t64_3.8.3-1.1ubuntu3.3_arm64.deb ...
+Unpacking libgnutls30t64:arm64 (3.8.3-1.1ubuntu3.3) over (3.8.3-1.1ubuntu3.2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libgnutls.so.30' size has changed from 22 to 20
+Setting up libgnutls30t64:arm64 (3.8.3-1.1ubuntu3.3) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../libldap2_2.6.7+dfsg-1~exp1ubuntu8.2_arm64.deb ...
+Unpacking libldap2:arm64 (2.6.7+dfsg-1~exp1ubuntu8.2) over (2.6.7+dfsg-1~exp1ubuntu8.1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/liblber.so.2' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libldap.so.2' size has changed from 22 to 18
+Preparing to unpack .../gpgv_2.4.4-2ubuntu17.2_arm64.deb ...
+Unpacking gpgv (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+Setting up gpgv (2.4.4-2ubuntu17.2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../00-krb5-locales_1.20.1-6ubuntu2.5_all.deb ...
+Unpacking krb5-locales (1.20.1-6ubuntu2.5) over (1.20.1-6ubuntu2.2) ...
+Preparing to unpack .../01-libexpat1_2.6.1-2ubuntu0.3_arm64.deb ...
+Unpacking libexpat1:arm64 (2.6.1-2ubuntu0.3) over (2.6.1-2ubuntu0.2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libexpat.so.1' size has changed from 22 to 17
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libexpatw.so.1' size has changed from 22 to 18
+Preparing to unpack .../02-libgssapi-krb5-2_1.20.1-6ubuntu2.5_arm64.deb ...
+Unpacking libgssapi-krb5-2:arm64 (1.20.1-6ubuntu2.5) over (1.20.1-6ubuntu2.2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libgssapi_krb5.so.2' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libgssapi-krb5-2/changelog.Debian.gz' size has changed from 42 to 38
+Preparing to unpack .../03-libkrb5-3_1.20.1-6ubuntu2.5_arm64.deb ...
+Unpacking libkrb5-3:arm64 (1.20.1-6ubuntu2.5) over (1.20.1-6ubuntu2.2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libkrb5.so.3' size has changed from 18 to 14
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libkrb5-3/changelog.Debian.gz' size has changed from 42 to 38
+Preparing to unpack .../04-libkrb5support0_1.20.1-6ubuntu2.5_arm64.deb ...
+Unpacking libkrb5support0:arm64 (1.20.1-6ubuntu2.5) over (1.20.1-6ubuntu2.2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libkrb5support.so.0' size has changed from 26 to 21
+Preparing to unpack .../05-libk5crypto3_1.20.1-6ubuntu2.5_arm64.deb ...
+Unpacking libk5crypto3:arm64 (1.20.1-6ubuntu2.5) over (1.20.1-6ubuntu2.2) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libk5crypto.so.3' size has changed from 22 to 18
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libk5crypto3/changelog.Debian.gz' size has changed from 42 to 38
+Preparing to unpack .../06-libxml2_2.9.14+dfsg-1.3ubuntu3.2_arm64.deb ...
+Unpacking libxml2:arm64 (2.9.14+dfsg-1.3ubuntu3.2) over (2.9.14+dfsg-1.3ubuntu3) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libxml2.so.2' size has changed from 22 to 17
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/libxml2/NEWS.gz' size has changed from 18 to 12
+Preparing to unpack .../07-openssl_3.0.13-0ubuntu3.5_arm64.deb ...
+Unpacking openssl (3.0.13-0ubuntu3.5) over (3.0.13-0ubuntu3.4) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/ssl/cert.pem' size has changed from 38 to 34
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/ssl/misc/tsget' size has changed from 18 to 8
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/ssl/openssl.cnf' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/openssl/changelog.Debian.gz' size has changed from 34 to 30
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/openssl/changelog.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/doc/openssl/copyright' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/asn1parse.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/c_rehash.1ssl.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/ca.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/ciphers.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/cmp.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/cms.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/crl.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/crl2pkcs7.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/dgst.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/dhparam.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/dsa.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/dsaparam.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/ec.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/ecparam.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/enc.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/engine.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/errstr.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/gendsa.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/genpkey.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/genrsa.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/info.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/kdf.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/mac.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/nseq.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/ocsp.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/passwd.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/pkcs12.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/pkcs7.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/pkcs8.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/pkey.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/pkeyparam.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/pkeyutl.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/prime.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/rand.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/rehash.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/req.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/rsa.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/rsautl.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/s_client.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/s_server.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/s_time.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/sess_id.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/smime.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/speed.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/spkac.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/srp.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/storeutl.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/ts.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/verify.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/version.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man1/x509.1ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYEXCH-X448.7ssl.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-CMAC.7ssl.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-DH.7ssl.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-DHX.7ssl.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-DSA.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-EC.7ssl.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-ED25519.7ssl.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-ED448.7ssl.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-HMAC.7ssl.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-Poly1305.7ssl.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-RSA.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-SM2.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-Siphash.7ssl.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-X25519.7ssl.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_KEYMGMT-X448.7ssl.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_MAC-BLAKE2BMAC.7ssl.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_MAC-BLAKE2SMAC.7ssl.gz' size has changed from 26 to 22
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_MAC-KMAC128.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_MAC-KMAC256.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_MD-KECCAK-KMAC.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_PKEY-CMAC.7ssl.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_PKEY-DHX.7ssl.gz' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_PKEY-ED25519.7ssl.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_PKEY-ED448.7ssl.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_PKEY-Poly1305.7ssl.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_PKEY-Siphash.7ssl.gz' size has changed from 26 to 21
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_PKEY-X448.7ssl.gz' size has changed from 26 to 23
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_SIGNATURE-CMAC.7ssl.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_SIGNATURE-ED448.7ssl.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_SIGNATURE-Poly1305.7ssl.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/EVP_SIGNATURE-Siphash.7ssl.gz' size has changed from 30 to 26
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/Ed25519.7ssl.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/Ed448.7ssl.gz' size has changed from 34 to 29
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/OPENSSL_API_COMPAT.7ssl.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/OPENSSL_NO_DEPRECATED.7ssl.gz' size has changed from 30 to 27
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/RSA.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/SM2.7ssl.gz' size has changed from 22 to 20
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/share/man/man7/X448.7ssl.gz' size has changed from 18 to 14
+Preparing to unpack .../08-gnupg-l10n_2.4.4-2ubuntu17.2_all.deb ...
+Unpacking gnupg-l10n (2.4.4-2ubuntu17.2) over (2.4.4-2ubuntu17) ...
+Preparing to unpack .../09-libldap-common_2.6.7+dfsg-1~exp1ubuntu8.2_all.deb ...
+Unpacking libldap-common (2.6.7+dfsg-1~exp1ubuntu8.2) over (2.6.7+dfsg-1~exp1ubuntu8.1) ...
+Preparing to unpack .../10-libmpfr6_4.2.1-1build1.1_arm64.deb ...
+Unpacking libmpfr6:arm64 (4.2.1-1build1.1) over (4.2.1-1build1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libmpfr.so.6' size has changed from 18 to 16
+Preparing to unpack .../11-libnvme1t64_1.8-3ubuntu1_arm64.deb ...
+Unpacking libnvme1t64 (1.8-3ubuntu1) over (1.8-3build1) ...
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libnvme-mi.so.1' size has changed from 22 to 19
+[1mdpkg:[0m [1;33mwarning:[0m symbolic link '/usr/lib/aarch64-linux-gnu/libnvme.so.1' size has changed from 18 to 16
+Setting up libexpat1:arm64 (2.6.1-2ubuntu0.3) ...
+Setting up libsqlite3-0:arm64 (3.45.1-1ubuntu2.1) ...
+Setting up systemd-dev (255.4-1ubuntu8.6) ...
+Setting up krb5-locales (1.20.1-6ubuntu2.5) ...
+Setting up libldap-common (2.6.7+dfsg-1~exp1ubuntu8.2) ...
+Setting up libkrb5support0:arm64 (1.20.1-6ubuntu2.5) ...
+Setting up libnvme1t64 (1.8-3ubuntu1) ...
+Setting up libmpfr6:arm64 (4.2.1-1build1.1) ...
+Setting up gnupg-l10n (2.4.4-2ubuntu17.2) ...
+Setting up libsystemd-shared:arm64 (255.4-1ubuntu8.6) ...
+Setting up libk5crypto3:arm64 (1.20.1-6ubuntu2.5) ...
+Setting up libdevmapper1.02.1:arm64 (2:1.02.185-3ubuntu3.2) ...
+Setting up gpgconf (2.4.4-2ubuntu17.2) ...
+Setting up libcryptsetup12:arm64 (2:2.7.0-1ubuntu4.2) ...
+Setting up libkrb5-3:arm64 (1.20.1-6ubuntu2.5) ...
+Setting up openssl (3.0.13-0ubuntu3.5) ...
+Setting up libxml2:arm64 (2.9.14+dfsg-1.3ubuntu3.2) ...
+Setting up libldap2:arm64 (2.6.7+dfsg-1~exp1ubuntu8.2) ...
+Setting up gpg (2.4.4-2ubuntu17.2) ...
+Setting up gnupg-utils (2.4.4-2ubuntu17.2) ...
+Setting up gpg-agent (2.4.4-2ubuntu17.2) ...
+Setting up gpgsm (2.4.4-2ubuntu17.2) ...
+Setting up systemd (255.4-1ubuntu8.6) ...
+Setting up dirmngr (2.4.4-2ubuntu17.2) ...
+Setting up libgssapi-krb5-2:arm64 (1.20.1-6ubuntu2.5) ...
+Setting up udev (255.4-1ubuntu8.6) ...
+Setting up keyboxd (2.4.4-2ubuntu17.2) ...
+Setting up gnupg (2.4.4-2ubuntu17.2) ...
+Setting up systemd-sysv (255.4-1ubuntu8.6) ...
+Setting up gpg-wks-client (2.4.4-2ubuntu17.2) ...
+Setting up libnss-systemd:arm64 (255.4-1ubuntu8.6) ...
+Setting up libpam-systemd:arm64 (255.4-1ubuntu8.6) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/aarch64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/aarch64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/aarch64-linux-gnu/perl-base /usr/lib/aarch64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+debconf: falling back to frontend: Teletype
+Processing triggers for dbus (1.14.10-4ubuntu4.1) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.4) ...
+Log ended: 2025-04-14  11:51:44
+
+Log started: 2025-04-14  11:52:12
+Selecting previously unselected package sudo.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7286 files and directories currently installed.)
+Preparing to unpack .../sudo_1.9.15p5-3ubuntu5_arm64.deb ...
+Unpacking sudo (1.9.15p5-3ubuntu5) ...
+Setting up sudo (1.9.15p5-3ubuntu5) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.4) ...
+Log ended: 2025-04-14  11:52:14
